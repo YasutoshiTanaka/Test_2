@@ -1,0 +1,8 @@
+
+
+・プッシュ先のリモートリポジトリを指定
+	git remote add origin <URL>
+
+
+
+
