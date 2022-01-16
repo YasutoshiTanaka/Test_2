@@ -1,7 +1,18 @@
 
 
-・プッシュ先のリモートリポジトリを指定
-	git remote add origin <URL>
+・リモートリポジトリを指定して、コミットプッシュする場合
+
+	・プッシュ先のリモートリポジトリを指定
+		git remote add origin <URL>
+
+	・何かしらの作業
+
+	・コミット/プッシュ
+		git add ***.*
+		git commit -m "コメント"
+
+	・git pusyu origin master
+
 
 
 
