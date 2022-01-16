@@ -11,7 +11,7 @@
 		git add ***.*
 		git commit -m "コメント"
 
-	・git pusyu origin master
+	・git push origin master
 
 
 
